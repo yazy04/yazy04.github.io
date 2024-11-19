@@ -643,7 +643,7 @@ footer p{
 }
 
 /* Smaller mobile devices (max-width: 480px) */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 420px) {
   /* Header */
   nav ul a {
     font-size: 1em;
