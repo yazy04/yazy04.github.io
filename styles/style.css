@@ -667,6 +667,11 @@ footer p{
     font-size: 1em;
   }
 
+  .skill-list {
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+
 }
 
 
